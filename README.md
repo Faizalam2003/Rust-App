@@ -31,5 +31,5 @@ In this article, I'll walk you through the process of building a backend API usi
     - Add the Components to the Main File
 - Test the Rust Full-Stack App
 
-Read the entire article here: [https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/](https://codevoweb.com/build-full-stack-app-with-rust-yew-and-actix-web/)
+
 
